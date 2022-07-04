@@ -19,27 +19,27 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `ＡＦＹＯＯＮ　胃偉ザ
+global.alivemsg = `⏤͟͟͞͞★𝐑𝐄𝐁𝐄𝐋🍃𝐒𝐊𝐁𝐀ꗄ🕊⃝🍒
 ` //Costomize Alive Message (type your message in `Ｉ＇Ｍ ＡＬＩＶＥ` )
 
-global.owner = ['916282888139'] //Owner number in aive msg
-global.premium = ['916282888139'] //Owner Number info
-global.ownernomer = '916282888139' //Owner Number <<<
+global.owner = ['+9185470 62392'] //Owner number in aive msg
+global.premium = ['+9185470 62392'] //Owner Number info
+global.ownernomer = '+9185470 62392' //Owner Number <<<
 
-global.ownername = '𝗔𝗙𝗬𝗢𝗢𝗡' //Owner Name
-global.botname = 'ＡＦＹＯＯＮ　胃偉ザ' //Bot Name
+global.ownername = '⏤͟͟͞͞★𝐑𝐄𝐁𝐄𝐋🍃𝐒𝐊𝐁𝐀ꗄ🕊⃝🍒' //Owner Name
+global.botname = '⏤͟͟͞͞★𝐑𝐄𝐁𝐄𝐋🍃𝐒𝐊𝐁𝐀ꗄ🕊⃝🍒' //Bot Name
 
 global.button = 'ɢʀᴏᴜᴘ ʟɪɴᴋ' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://chat.whatsapp.com/HQl92JJ7u5U07KGne1qHyJ' //Change Your Button's URL
+global.btnurl = 'Nothing...' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = 'ＡＦＹＯＯＮ　胃偉ザ' //Bot Pacage Name
-global.author = '𝗔𝗙𝗬𝗢𝗢𝗡❯❯' //Author Name
+global.packname = '⏤͟͟͞͞★𝐑𝐄𝐁𝐄𝐋🍃𝐒𝐊𝐁𝐀ꗄ🕊⃝🍒' //Bot Pacage Name
+global.author = '⏤͟͟͞͞★𝐑𝐄𝐁𝐄𝐋🍃𝐒𝐊𝐁𝐀ꗄ🕊⃝🍒❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '𝗔𝗙𝗬𝗢𝗢𝗡.' //In list menu
+global.footer = '⏤͟͟͞͞★𝐑𝐄𝐁𝐄𝐋🍃𝐒𝐊𝐁𝐀ꗄ🕊⃝🍒.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
